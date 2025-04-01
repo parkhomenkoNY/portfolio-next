@@ -5,7 +5,7 @@ import "swiper/css/pagination";
 import "swiper/css/free-mode";
 import { FreeMode } from "swiper/modules";
 import { Pagination } from "swiper/modules";
-import { ProImages, ProImages2 } from "@/constants";
+import { ProImages } from "@/constants";
 import Image from "next/image";
 
 const ProjectSlider = () => {
